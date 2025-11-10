@@ -1,4 +1,19 @@
-# 🚀 Projeto React + Vite
+## 📖 Apresentação
+
+O projeto SGHSS é um sistema moderno de gestão hospitalar que oferece 
+uma interface simples e prática para diferentes usuários.
+Ele permite gerenciar consultas, pacientes, médicos e tarefas 
+administrativas de forma eficiente e acessível.
+
+O sistema está em fase de desenvolvimento, com foco principal na 
+implementação do front-end.
+Atualmente, já conta com funcionalidades que permitem o acesso e o 
+cadastro de pacientes, oferecendo uma base para futuras expansões
+e integrações.
+
+-----------------------------------------------------------------------
+
+## 🚀 Projeto React + Vite
 
 Este projeto foi desenvolvido com **React** e **Vite**, oferecendo uma
 estrutura moderna, leve e eficiente para o desenvolvimento de aplicações
@@ -37,22 +52,31 @@ Veja o modelo com TypeScript para integrar **TypeScript** e
 
 ## 📂 Estrutura de Diretórios
 
-    sghss-frontend/
-    ├── node_modules/
-    ├── public/
-    ├── src/
-    │   ├── assets/
-    │   ├── components/
-    │   ├── pages/
-    │   ├── App.jsx
-    │   ├── main.jsx
-    │   └── index.css
-    ├── .eslintrc.cjs
-    ├── .gitignore
-    ├── index.html
-    ├── package.json
-    ├── vite.config.js
-    └── README.md
+```plaintext
+sghss-frontend/
+├── node_modules/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── .eslintrc.cjs
+├── .gitignore
+├── index.html
+├── package.json
+├── vite.config.js
+├── README.md
+└── LICENSE
+```  
+------------------------------------------------------------------------
+
+## 💻 Requisitos do Sistema
+
+- Navegador moderno (**Google Chrome**, **Mozilla Firefox** ou
+**Microsoft Edge**)  
 
 ------------------------------------------------------------------------
 
@@ -76,14 +100,24 @@ npm install
 npm run dev
 ```
 
-O projeto será iniciado e estará acessível normalmente em:
-<http://localhost:5173>
+O projeto será iniciado e estará acessível normalmente em:  
+
+http://localhost:5173  
+
+**Usuário padrão:** qualquer endereço no formato tradicional (exemplo: usuario@exemplo.com)  
+
+**Senha padrão:** qualquer valor  
 
 ------------------------------------------------------------------------
 
 ## 📫 Contato
 
-**Autor:** Alex Carvalho\
+**Autor:** Alexssandre Vieira Carvalho\
 **GitHub:**
 [@AlexssandreCarvalho](https://github.com/AlexssandreCarvalho)\
 **E-mail:** alexvieiracarvalho@gmail.com
+
+-------------------------------------------------------------------------
+
+📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
